@@ -1,2 +1,7 @@
 !.#makefile
-chess.html
+*.html
+*~
+*.o
+.main.c.swp
+main.c~
+#main.c#
